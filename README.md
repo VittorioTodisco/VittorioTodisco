@@ -2,7 +2,7 @@
 
 Researcher in Wireless Communications at the University of Bologna.
 
-My research focuses on **V2X communications, 5G/6G sidelink, resource allocation, wireless simulation, and radio propagation**.
+My research focuses on **V2X communications, sidelink communications, 5G/6G networks, resource allocation, wireless simulation, and radio propagation**.
 
 I am one of the main contributors to **WiLabV2Xsim**, an open-source simulator for C-V2X and IEEE 802.11p/802.11bd vehicular communications.
 
