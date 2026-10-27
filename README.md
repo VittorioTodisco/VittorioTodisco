@@ -6,12 +6,7 @@ My research focuses on **V2X communications, 5G/6G sidelink, resource allocation
 
 I am one of the main contributors to **WiLabV2Xsim**, an open-source simulator for C-V2X and IEEE 802.11p/802.11bd vehicular communications.
 
-### Research interests
-- V2X and vehicular communications
-- 5G/6G sidelink
-- Wireless resource allocation
-- Wireless and network simulation
-- Radio propagation and channel modeling
+I also follow standardization and industry activities in vehicular communications, including developments within 3GPP, ETSI ITS, and the CAR 2 CAR Communication Consortium.
 
 
 <!--
